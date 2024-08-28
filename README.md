@@ -41,7 +41,7 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
-[Click me to see the app!]((https://fitnness-tracker.onrender.com))
+[Click me to see the app!]: "https://fitnness-tracker.onrender.com"`
 
 #### Example Screenshot
 
